@@ -1,4 +1,3 @@
-Project Overview
 This project is a simple Console-based Library Management System developed in Java. It allows a user to manage a collection of books by performing basic CRUD (Create, Read, Update, Delete) operations through a command-line interface. The system utilizes ArrayList for storing book objects and the Scanner class for user input.
 
 Features
@@ -19,7 +18,6 @@ Java Development Kit (JDK) 8 or newer.
 An IDE (e.g., VS Code, IntelliJ, Eclipse) or command-line environment configured for Java.
 
 
-Proje Genel Bakışı
 Bu proje, Java ile geliştirilmiş basit, Konsol tabanlı bir Kütüphane Yönetim Sistemi'dir. Kullanıcının komut satırı arayüzü (CLI) aracılığıyla temel CRUD (Oluşturma, Okuma, Güncelleme, Silme) operasyonlarını gerçekleştirerek bir kitap koleksiyonunu yönetmesine olanak tanır. Sistem, kitap nesnelerini depolamak için ArrayList ve kullanıcı girdisi için Scanner sınıfını kullanır.
 
 Özellikler
